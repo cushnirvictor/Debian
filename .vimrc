@@ -1,0 +1,25 @@
+syntax on
+set mouse=r
+set showmode
+set showcmd
+set encoding=utf-8
+set fileencoding=utf-8
+set fileencodings=utf-8
+set ttyfast
+set t_Co=256
+"set autoindent
+set tabstop=2
+set shiftwidth=4
+set expandtab
+set softtabstop=2
+"set relativenumber
+set cursorline
+set laststatus=2
+set ruler
+set undofile
+set undodir=~/.vim/undo-dir
+set wildmenu
+set hlsearch
+set noeb vb t_vb=
+"colorscheme desertEx
+colorscheme xoria256 
